@@ -1,0 +1,1 @@
+export{ default as Image_1} from "./backgrongimg.jpg";

@@ -1,0 +1,313 @@
+{
+  "allbook": [
+    {
+      "id": "1",
+      "slug": "muna-madan",
+      "img": "/Images/image2.jpg",
+      "name": "Muna Madan",
+      "price": " 100",
+      "category": "story",
+      "topSelling": true
+    },
+    {
+      "id": "2",
+      "slug": "digital-logic",
+      "img": "/Images/image3.jpg",
+      "name": "Digital Logic",
+      "price": " 200",
+      "category": "scienfiction",
+      "topSelling": false
+    },
+    {
+      "id": "3",
+      "slug": "multimedia",
+      "img": "/Images/image3.jpg",
+      "name": "Multimedia",
+      "price": " 400",
+      "category": "story"
+    },
+    {
+      "id": "4",
+      "slug": "operating-system",
+      "img": "/Images/image4.jpg",
+      "name": "Operating system ",
+      "price": " 400",
+      "category": "scienfiction"
+    },
+    {
+      "id": "5",
+      "slug": "information-technology",
+      "img": "/Images/image1.jpg",
+      "name": "Information Technology",
+      "price": " 400",
+      "category": "story"
+    }
+  ],
+  "productsdetail": [
+    {
+      "id": "1",
+      "slug": "muna-madan",
+      "name": "Muna Madan",
+      "img": "/Images/image3.jpg",
+      "category": "p",
+      "price": "10.00",
+      "description": "This is a description of the book.",
+      "stock": 0,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great book, really enjoyed it!"
+        },
+        {
+          "rating": 5,
+          "comment": "An absolute masterpiece!"
+        },
+        {
+          "user": "rama",
+          "rating": "4",
+          "comment": "this is good"
+        },
+        {
+          "user": "sita",
+          "rating": "3",
+          "comment": "dghgsadhasj"
+        },
+        {
+          "user": "rama",
+          "rating": "2.5",
+          "comment": ",nafnfnng"
+        }
+      ],
+      "rating": 1886.5
+    },
+    {
+      "id": "2",
+      "slug": "digital-logic",
+      "name": "Digital Logic",
+      "img": "/Images/image2.jpg",
+      "category": "p",
+      "price": "10.00",
+      "description": "This is a description of the book.",
+      "stock": 9,
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "It was okay, but could be better."
+        },
+        {
+          "user": "sita",
+          "rating": "2",
+          "comment": "this is goog"
+        },
+        {
+          "user": "gita",
+          "rating": "2.5",
+          "comment": "hjhhjqxhs"
+        }
+      ],
+      "rating": 107.5
+    },
+    {
+      "id": "3",
+      "slug": "multimedia",
+      "name": "Multimedia",
+      "img": "/Images/image1.jpg",
+      "category": "p",
+      "price": "10.00",
+      "description": "This is a description of the book.",
+      "stock": 0,
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "It was okay, but could be better."
+        },
+        {
+          "user": "rama",
+          "rating": "2.5",
+          "comment": "jajabjdaj"
+        },
+        {
+          "user": "eeeyteyyt",
+          "rating": "5",
+          "comment": "fdyghf",
+          "date": "8/23/2024"
+        }
+      ],
+      "rating": "2.5"
+    },
+    {
+      "id": "4",
+      "slug": "media",
+      "name": "Mmedia",
+      "img": "/Images/image1.jpg",
+      "category": "p",
+      "price": "10.00",
+      "description": "This is a description of the book.",
+      "stock": 5,
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "It was okay, but could be better."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "rama",
+      "name": "Rama",
+      "img": "/Images/image1.jpg",
+      "category": "scienfiction",
+      "price": "10.00",
+      "description": "This is a description of the book.",
+      "stock": "1",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "It was okay, but could be better."
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "password1",
+      "token": "abcd123"
+    },
+    {
+      "id": "b8c5",
+      "user": "rama12345",
+      "email": "rama@gmail.com",
+      "password": "123456",
+      "token": "vt60l6pigul"
+    },
+    {
+      "id": "9e18",
+      "user": "rama123456",
+      "email": "user@gmail.com",
+      "password": "1234567",
+      "token": "kcgc2r5ei2l"
+    },
+    {
+      "id": "819c",
+      "user": "rama12345",
+      "email": "rama@gmail.com",
+      "password": "1234567",
+      "token": "f4iy7gvon0f"
+    },
+    {
+      "id": "0d89",
+      "user": "iwjrjkwj",
+      "email": "111.111@gmail.com",
+      "password": "123456",
+      "token": "wvuajbick5p"
+    },
+    {
+      "id": "1180",
+      "user": "rama2346",
+      "email": "eliasfsdev@gmail.com",
+      "password": "1234567",
+      "token": "1tt5atb1nxc"
+    },
+    {
+      "id": "1d41",
+      "email": "rama12345",
+      "password": "123456"
+    }
+  ],
+  "ctsdetail": [
+    {
+      "id": "1",
+      "slug": "muna-madan",
+      "title": "Muna Madan",
+      "img": "/Images/image3.jpg",
+      "category": "Fiction",
+      "price": "10.00",
+      "description": "2This is a description of the book.",
+      "stock": "2",
+      "reviews": "5"
+    },
+    {
+      "id": "2",
+      "title": "Book Title",
+      "img": "/Images/image1.jpg",
+      "category": "story",
+      "price": "10.00",
+      "description": "2This is a description of the book.",
+      "pdfPath": "/Images/a.pdf.pdf",
+      "stock": "1",
+      "reviews": "3"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "book": {
+        "img": "/Images/image2.jpg",
+        "title": "Muna Madan",
+        "price": "50.110",
+        "quantity": "2",
+        "address": "123 Book Street, Booktown",
+        "phonenumber": "9876453456",
+        "pdfPath": "/Images/a.pdf"
+      },
+      "status": "pending",
+      "paymentComplete": false
+    },
+    {
+      "id": "2",
+      "book": {
+        "img": "/Images/image4.jpg",
+        "title": "Muna Madan",
+        "price": "100",
+        "quantity": "5",
+        "address": "123 Book Street, Booktown",
+        "phonenumber": "9876453456",
+        "pdfPath": "/Images/a.pdf"
+      },
+      "status": "complete",
+      "paymentComplete": true
+    }
+  ],
+  "adminorders": [
+    {
+      "id": "2",
+      "customerName": "John Doe",
+      "address": "123 Elm Street",
+      "totalProducts": 3,
+      "totalPrice": 29.99,
+      "paymentStatus": "Paid",
+      "status": "complete",
+      "items": [
+        {
+          "id": 103,
+          "name": "Book C",
+          "quantity": 1
+        },
+        {
+          "id": 104,
+          "name": "Book D",
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "admincontact": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "message": "This is a test message."
+    },
+    {
+      "id": "2",
+      "name": "John ",
+      "number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "message": "This is a test message."
+    }
+  ]
+}
